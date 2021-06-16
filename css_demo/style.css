@@ -1,0 +1,31 @@
+/* 
+SELECTOR{
+    ATTRIBUTES: VALUES;
+}
+1. SELECTOR
+2. ATTRIBURES
+3. VALUES
+*/
+
+/* CSS RESET */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* TARGETING IDs */
+#header{
+    color: green;
+    background-color: rgb(0, 0, 0);
+    margin: 10px;
+    padding: 15px;
+    text-align: center;
+}
+
+/* TARGETING CLASSNAMES */
+.subheader{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: teal;
+    margin: 20px;
+    font-size: 25px;
+}
