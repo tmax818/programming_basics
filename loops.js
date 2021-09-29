@@ -25,21 +25,21 @@
 //     console.log(num)
 // }
 
-// for(var num = 3; num < 22; num++){
-//     if(num % 3 == 0){
+// for (var num = 3; num < 22; num++) {
+//     if (num % 3 == 0) {
 //         console.log(num)
 //     }
 // }
 
 
-
-
-// for(var num = 1; num < 11; num = num + 1){
+// for (var num = 1; num < 11; num = num + 1) {
 //     console.log(num)
 // }
-// // WHILE
+
+
+// WHILE
 // var num = 1
-// while(num < 11){
+// while (num < 11) {
 //     console.log(num)
 //     num++
 // }
@@ -47,8 +47,21 @@
 
 
 var roll = Math.ceil(Math.random() * 20)
-while(roll != 20){
+while (roll != 20) {
     console.log('ROLL: ', roll)
     roll = Math.ceil(Math.random() * 20)
 }
 console.log('ROLL: ', roll)
+
+
+
+var age = 10
+
+if(age == 10){
+    console.log("age is 10")
+    console.log(age)
+}
+
+for(var number = 0; number < 11; number++){
+    console.log(number)
+}
