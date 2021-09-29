@@ -34,4 +34,4 @@ console.log(word + age)
 var num_1 = "19"
 var num_2 = 90
 console.log(num_1 + num_2)
-console.log(parseInt(num_1) + num_2)
+console.log(parseInt(num_1) + num_2)    
