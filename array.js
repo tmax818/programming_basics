@@ -34,10 +34,13 @@ for(var index = namesArray.length - 1; index >= 0; index-- ){
 
 
 
+// GENERATE AN ARRAY FILLED WITH NUM 1 - 255
 
-// DEFINING A FUNCTION
-function add(a,b){
-    return a + b
-}
-// CALLING A FUNCTION
-add(4,5)
+
+// #1 - PRINT ONLY THE EVEN NUMBERS 
+var arr1 = [8, 6, 7, 5, 3, 0, 9];
+// #2 - GET THE TOTAL SUM OF THE NUMBERS IN THE ARRAY
+var arr2 = [4, 7, 13, 13, 19, 37, -2];
+// #3 - GET THE AVERAGE OF THE ARRAY
+var arr3 = [6, 2, 12, 14, -24, 5, 0];
+
