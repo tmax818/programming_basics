@@ -37,3 +37,22 @@ function flexCountdown(lowNum, highNum, mult){
 function flexCountdownSensei(param1, param2, param3, param4){
     
 }
+
+
+/*
+'|| '||'  '|' '||''''|  '||''|.   '|.   '|' '||''''|   .|'''.|  '||''|.       |     '||' '|' 
+ '|. '|.  .'   ||  .     ||   ||   |'|   |   ||  .     ||..  '   ||   ||     |||      || |   
+  ||  ||  |    ||''|     ||    ||  | '|. |   ||''|      ''|||.   ||    ||   |  ||      ||    
+   ||| |||     ||        ||    ||  |   |||   ||       .     '||  ||    ||  .''''|.     ||    
+    |   |     .||.....| .||...|'  .|.   '|  .||.....| |'....|'  .||...|'  .|.  .||.   .||.   
+GREATER THAN SECOND
+Create a function that accepts an array filled with numbers, find the SECOND LARGEST number and
+return that number
+Example: [1,2,3,4,5,6] => 5
+Example: [6,4,8,10, 34, 14] => 14
+Example: [-6,-9,5,-2,0] => 0
+*/
+
+// ITERATE THROUGH THE ARRAY AND FIND THE LARGEST NUMBER
+// ITERATE THROUGH THE ARRAY AGAIN AND FIND THE SECOND LARGEST NUMBER
+// RETURN THE NUMBER
