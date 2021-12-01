@@ -11,7 +11,6 @@ while (number < 256) {
 }
 
 
-
 // 255 => 0
 for (var number = 255; number >= 0; number--) {
     console.log(number)

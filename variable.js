@@ -1,33 +1,32 @@
 // DECLARING AND INITIALIZING A VARIABLE
-var my_age = 31
+var age = 31
 
 // DECLARING
 var another_age
 // INITIAZLING
 another_age = 33
 
-
 // ADDITION
-my_age = my_age + 7
-my_age += 7
+age = age + 7
+age += 7
 
-my_age++
-console.log(my_age)
+age++
+console.log(age)
 // SUBTRACTION
-my_age = my_age - 2
-my_age -= 4
+age = age - 2
+age -= 4
 
-my_age--
-console.log(my_age)
+age--
+console.log(age)
 // MULTIPLICATION
-my_age = my_age * 2
-my_age *= 2
-console.log(my_age)
+age = age * 2
+age *= 2
+console.log(age)
 // DIVISION
-my_age = my_age / 4
-my_age /= 6
+age = age / 4
+age /= 6
 
-console.log(my_age)
+console.log(age)
 
 
 // STRINGS
