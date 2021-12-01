@@ -23,3 +23,15 @@ else if(age >= 18){
 else{
     console.log("You can go get your permit and driver license")
 }
+
+var age = 23
+
+if(age >= 16){
+    console.log("You can go get your driver license")
+}
+if(age >= 18){
+    console.log("You can vote and buy lottery tickets")
+}
+if(age >= 21){
+    console.log("You can buy some alcohol and tobacco")
+}

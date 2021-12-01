@@ -16,3 +16,15 @@ The farmer's challenge was to carry himself and his purchases to the far bank of
 6. Go drop off the wolf with the cabbage
 7. Go back to pick up the sheep
 8. Drop the sheep off and then on with your day
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+Prompt: You have a 3-gallon and a 5-gallon jug that you can fill from a fountain of water
+The problem is to fill one of the jugs with exactly 4 gallons of water. How do you do it?
+
+1. You can't approximate how much water is left
+2. You can fill the jars as many times as you want, however you have to fill up the jar
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
