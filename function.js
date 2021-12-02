@@ -36,4 +36,29 @@ function divide(num1, num2){
     return num1 / num2
 }
 
-console.log(divide(15,3))
+// console.log(divide(15,3))
+
+
+// -----------------------------------------------------------------------------//
+function greetSomeone(person) {
+    if (person == "Martin") {
+        return "Yo dawg, howz it goin?"
+    }
+    else {
+        return "Greetings, Earthling!"
+    }
+}
+
+// console.log(greetSomeone("Martin"))
+// console.log(greetSomeone("Zibzarb"))
+
+
+function test(){
+    for(var i = 1; i < 50; i++){
+        if(i % 5 == 0){
+            return i
+        }
+    }
+}
+
+console.log(test())
