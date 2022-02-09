@@ -7,7 +7,6 @@ var myAge
 myAge = 31
 
 
-
 // ADDITION
 myAge = myAge + 3
 myAge += 3
