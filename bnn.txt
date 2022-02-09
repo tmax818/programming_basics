@@ -4,3 +4,22 @@ But crossing the river by boat, the farmer could carry only himself and a single
 
 If left unattended together, the wolf would eat the goat, or the goat would eat the cabbage.
 The farmer's challenge was to carry himself and his purchases to the far bank of the river, leaving each purchase intact. How did he do it?
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Prompt: You have a 3-gallon and a 5-gallon jug that you can fill from a fountain of water
+The problem is to fill one of the jugs with exactly 4 gallons of water. How do you do it?
+
+1. You cannot approximate how much water is left
+2. You can fill the jugs with as much water as you need and as many times as you want, but you have top it off
+
+
+- Fill 5 gallon container and pour into the 3 gallon container. Leaving 2 Gallons in the 5 gallon container.
+- Empty the 3 gallon container
+- Pour the 2 gallons in the 3 gallon container leaving the 5 gallon empty
+- Then refill the 5 gallon container pour 1 gallon into the 3 gallon container. 
+- You are left with 4 gallons in the five gallon container.
