@@ -23,3 +23,13 @@ The problem is to fill one of the jugs with exactly 4 gallons of water. How do y
 - Pour the 2 gallons in the 3 gallon container leaving the 5 gallon empty
 - Then refill the 5 gallon container pour 1 gallon into the 3 gallon container. 
 - You are left with 4 gallons in the five gallon container.
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+Prompt: John and Marie play rock-paper-scissors 10 times. You know that:
+John uses rock three times, scissors six times, and paper once.
+Marie uses rock twice, scissors four times, and paper four times.
+There are no ties in all 10 games.
+The order of games is unknown.
+Who wins? By how much?
